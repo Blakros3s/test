@@ -1608,16 +1608,7 @@ pre code {
     width: 1170px;
   }
 }
-@media (min-width: 1400px) {
-  .container {
-    width: 1370px;
-  }
-}
-@media (min-width: 2100px) {
-  .container {
-    width: 2060px;
-  }
-}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
